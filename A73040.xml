@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A posie of rare flowers, gathered by a young-man for his mistrisse To a delectable new tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73040</idno>
+            <idno type="STC">STC 20131.5</idno>
+            <idno type="STC">ESTC S124596</idno>
+            <idno type="EEBO-CITATION">99899196</idno>
+            <idno type="PROQUEST">99899196</idno>
+            <idno type="VID">150733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1976:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A posie of rare flowers, gathered by a young-man for his mistrisse To a delectable new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed for H. G[osson].,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[c. 1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from STC.</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150733:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <hi>A Poſie of rare Flowers,</hi> Gathered by a Young-man for his Miſtriſſe.</head>
+            <opener>To a delectable new tune.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THe Summers Sunne ore-heating,</l>
+                  <l>Within a harbour ſitting,</l>
+                  <l>Vnder a Marble ſhade,</l>
+                  <l>For my true Loue the faireſt,</l>
+                  <l>And flowres the rareſt,</l>
+                  <l>A P<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſie thus I made.</l>
+               </lg>
+               <lg>
+                  <l>The firſt and laſt for truſting,</l>
+                  <l>Is called Euerlaſting,</l>
+                  <l>I pulled from the Bay,</l>
+                  <l>The blue and crimſon Columbine,</l>
+                  <l>The Daſie and the Woodbine,</l>
+                  <l>And eke the blooming May.</l>
+               </lg>
+               <lg>
+                  <l>The ſwéeteſt flowers for poſies,</l>
+                  <l>Pinkes, Gilliflowers and Roſes,</l>
+                  <l>I gathered in their prime:</l>
+                  <l>The flowers of Muſk-millions,</l>
+                  <l>Come blow me downe ſweet-William,</l>
+                  <l>With Roſemary and Time.</l>
+               </lg>
+               <lg>
+                  <l>The Larkſh<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>le, and the Lilly,</l>
+                  <l>The Flag and Daffadilly,</l>
+                  <l>The Wall-flower ſwéet of ſmell<g ref="char:punc">▪</g>
+                  </l>
+                  <l>The Maidenbluſh and Cowſlip,</l>
+                  <l>The Peagle and the Tulip.</l>
+                  <l>That doth in ſweet excell</l>
+               </lg>
+               <lg>
+                  <l>The Violet and Grediline,</l>
+                  <l>The odoriferous Eglantine,</l>
+                  <l>With Thrift and Honeſty,</l>
+                  <l>The Muſkeroſe ſwéet and dainty,</l>
+                  <l>With others flowers plenty,</l>
+                  <l>Oxlops and Piony.</l>
+               </lg>
+               <lg>
+                  <l>The Gilliflowers variety,</l>
+                  <l>Of euery colour ſeuerally,</l>
+                  <l>The Lady ſmacks and Pancy:</l>
+                  <l>The Batchelors button, faire and fine,</l>
+                  <l>The Prime roſe and the Sope-in-wine</l>
+                  <l>With them the Maidens fancy.</l>
+               </lg>
+               <lg>
+                  <l>The time-obſerving Marigold,</l>
+                  <l>Moſt faire and louely to behold,</l>
+                  <l>I pluckt amongſt the reſt,</l>
+                  <l>The white and red Carnation,</l>
+                  <l>The ſenſes recreation</l>
+                  <l>With other flowers the beſt.</l>
+               </lg>
+               <lg>
+                  <l>The flowers fit for ſmelling,</l>
+                  <l>Whoſe ſweet is farre excelling,</l>
+                  <l>All the perfumes of Art,</l>
+                  <l>I pulled vp each ſeuerall,</l>
+                  <l>And made a Poſie therewithall.</l>
+                  <l>To beare to my ſweet heart.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:150733:1"/>
+               <!-- PDF PAGE 9 -->
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>SWéet Baſill and ſwéet Margerum</l>
+                  <l>The Cowſlip of <hi>Ieruſalem,</hi>
+                  </l>
+                  <l>The Crowfoot and Sea-flower,</l>
+                  <l>The Start-vp and kiſſe me,</l>
+                  <l>A flower that ſhall not miſſe me,</l>
+                  <l>In my true Louers bower.</l>
+               </lg>
+               <lg>
+                  <l>The Lady of Eſſex faire,</l>
+                  <l>A flower paſſing ſwéet and rare,</l>
+                  <l>I in the middeſt did place.</l>
+                  <l>Becauſe my Loue is faireſt,</l>
+                  <l>And of all maids the rareſt,</l>
+                  <l>In body, and in face.</l>
+               </lg>
+               <lg>
+                  <l>Theſe flowers being culled,</l>
+                  <l>And their branches pulled,</l>
+                  <l>Did yéeld a fragrant ſent:</l>
+                  <l>Obſeruing their fit places,</l>
+                  <l>I bound them in bridelaces,</l>
+                  <l>And to my Loue I went.</l>
+               </lg>
+               <lg>
+                  <l>In hope ſhe would receiue them,</l>
+                  <l>To th'end that I might giue them,</l>
+                  <l>As pledges of my loue,</l>
+                  <l>To her whoſe radiant beauty</l>
+                  <l>Did binde me to this duty,</l>
+                  <l>Hoping ſhee'l ne'r remoue.</l>
+               </lg>
+               <lg>
+                  <l>Her permanent affection</l>
+                  <l>To me, who by election</l>
+                  <l>Am hers while life doth laſt:</l>
+                  <l>Theſe flowers did reſemble</l>
+                  <l>My thoughts which ne'r diſſemble.</l>
+                  <l>But hold both ſmell and taſte.</l>
+               </lg>
+               <lg>
+                  <l>When I had made this Noſe-gay,</l>
+                  <l>With ioyfull heart I tooke my way,</l>
+                  <l>To finde out my true Loue:</l>
+                  <l>Who for my abſence mourned,</l>
+                  <l>Vntill that I returned,</l>
+                  <l>As doth the Turtle Doue.</l>
+               </lg>
+               <lg>
+                  <l>At laſt I found her ſporting.</l>
+                  <l>With other Maids conſorting,</l>
+                  <l>Cloſe by a Riuer ſide:</l>
+                  <l>My poſie not refuſed,</l>
+                  <l>When ſhe the ſame peruſed,</l>
+                  <l>Vpon her arme ſhe tide.</l>
+               </lg>
+               <lg>
+                  <l>(Quoth ſhe) although theſe flowers</l>
+                  <l>Will wither in few houres,</l>
+                  <l>Yet take my word, Swéet-heart.</l>
+                  <l>My loue to thée ſhall ne'r decay,</l>
+                  <l>Till death doth my life away,</l>
+                  <l>From thee Ile ne'r depart.</l>
+               </lg>
+               <lg>
+                  <l>The like to her I vowed,</l>
+                  <l>And whilſt the time allowed,</l>
+                  <l>About ſuch things we talked:</l>
+                  <l>At length becauſe it waxed late,</l>
+                  <l>We for that time did leaue our prate,</l>
+                  <l>And from each other walked.</l>
+               </lg>
+               <lg>
+                  <l>When with a mild behauiour</l>
+                  <l>She thankes me for my fauour,</l>
+                  <l>And wore it for my ſake:</l>
+                  <l>With enterchanging kiſſes,</l>
+                  <l>The reſt remaines in wiſhes</l>
+                  <l>Vnwilling leaue we take.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
